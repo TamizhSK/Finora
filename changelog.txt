@@ -1,2 +1,1 @@
-Configuration updated
-Version: 527
+Release notes for version 2.1.5
