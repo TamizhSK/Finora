@@ -1,1 +1,3 @@
-Release notes for version 3.7.1
+Build notes:
+- Optimized performance
+- Updated dependencies
